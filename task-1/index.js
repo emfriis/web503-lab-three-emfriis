@@ -6,6 +6,6 @@ function setup() {
 function draw() {
     fill('blue'); // Selects blue fill colour.
     noStroke(); // Removes stroke from draw function.
-    quad(38, 31, 86, 20, 69, 63, 30, 76); // Draws a quad with corners at specified coords.
-    rotate(35); // Rotates the shape by 35 degrees.
+    rotate(PI / 35.0); // Rotates the shape by 35 degrees.
+    quad(158, 180, 306, 70, 431, 515, 480, 526); // Draws a quad with corners at specified coords.
 }
