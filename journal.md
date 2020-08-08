@@ -30,11 +30,11 @@ For task three we were working with 3D sketches, this time creating two shapes: 
 
 ## Why have I learnt this?
 
-
+Using JavaScript, p5.js provides a valuable tool for scripting elements on web applications. By expanding my understanding of p5.js methods for creating sketches, I am improving my skills towards being able to develop the front-end for a dynamic web application.
 
 ## How have I learnt this?
 
-
+The p5.js reference section on the official website provides a readable and concise explanation of its various methods and functionalities, using examples and visualisations to make the syntax and parameters easier to understand. By continuing to use that resource, and experimenting p5.js' functionalities, I aim to continue to learn and fill any gaps in my understanding of p5.js and JavaScript.
 
 ## References:
 
